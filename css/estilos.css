@@ -3,3 +3,9 @@ body{
     text-align: center;
     font-family: arial;
 }
+.fa-fa-check{
+    text-align: center;
+}
+.fa-li{
+    position: relative;
+}
